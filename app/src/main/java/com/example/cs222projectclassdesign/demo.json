@@ -1,0 +1,36 @@
+{
+  "name_": "Suzanne Stillion",
+  "username_": "su",
+  "password_": "abc",
+
+  "courses_": [
+    {
+      "name_": "Introduction to CS",
+      "course_number_": "CS128",
+      "link_": "course.illinois.edu"
+    },
+    {
+      "name_": "Discrete Mathematics",
+      "course_number_": "CS173",
+      "link_": "course.illinois.edu"
+    }
+  ],
+  "announcements_": [
+    {
+      "title_": "Welcome to CS 128!",
+      "content_": "Howdy, welcome back.",
+      "date_": "10/06",
+      "publisher_": "Cowboy",
+      "link_": "course.illinois.edu"
+    }    
+  ],
+  "assignments_": [
+    {
+      "name_": "iterator",
+      "description_": "write sth",
+      "due_": "10/08",
+      "link_": "course.illinois.edu",
+      "status_": "not submitted"
+    }
+  ]
+}
